@@ -1,0 +1,24 @@
+# Ignore checkpoints and enviornment files
+
+# Ignore all files with .env extension in any directory
+**/*.env
+
+# Ignore all .env files in the root directory and its subdirectories
+.env 
+
+# General folders
+.venv
+/.venv/
+.DS_Store
+
+
+# Repo specific folders to ignore
+data-sets/
+twitter_app/checkpoint_*
+*.csv
+*.xlsx
+*.xls
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
