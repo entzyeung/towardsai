@@ -1,6 +1,7 @@
 # MCP Agent Chat Interface
 
 ![🤖 MCP AI Algo Trade App Demo](mcp.gif)
+[Click to check it out!](https://huggingface.co/spaces/Entz/mcp-stock-math)
 
 A Streamlit-based chat interface for interacting with MCP (Model Context Protocol) servers, featuring arithmetic operations and stock market data.
 
